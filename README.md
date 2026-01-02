@@ -10,7 +10,7 @@ Meta LinkのASWは、FPSが72から50台程度まで低下する時、FPSを36�
 これを無効化するため Oculus Debug Tool での操作は私の環境では成立せず、毎回無効化コマンドを打ち込んでいたものを代替するために制作しました。
 
 ## 使い方
-1. [Releases](右側のここをクリック) から最新の `ASW_AutoOff.exe` をダウンロードします。
+1. [Releases](https://github.com/LABO405/ASW_AutoOff/releases) から最新の `ASW_AutoOff.exe` をダウンロードします。
 2. 実行すると、アプリケーションがタスクトレイに常駐します。右クリックでスタートアップ登録と終了することが可能です。
 3. MetaLinkを行い、OculusDash.exeが起動するとその10秒後にコマンド(Ctrl+Num1)を送信します。
 4. 環境によっては.Net FrameWorkのインストールが必要な場合があります。
